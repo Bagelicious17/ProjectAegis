@@ -1,0 +1,9 @@
+Quarter,Revenue_Millions,Operating_Costs_Millions,Net_Income_Millions,EBITDA_Millions,Debt_Millions,Cash_Reserves_Millions,RnD_Spend_Millions,Employee_Count,Cash_Flow_Status
+Q1_2023,1250,900,280,350,450,620,85,32000,Positive
+Q2_2023,1180,920,195,260,480,580,82,31500,Positive
+Q3_2023,1050,980,45,105,540,510,78,30800,Marginal
+Q4_2023,920,1020,-130,-55,600,420,70,29200,Negative
+Q1_2024,850,1080,-275,-180,680,310,55,27500,Critical
+Q2_2024,780,1120,-400,-290,750,210,40,25800,Critical
+Q3_2024,710,1150,-510,-380,830,120,28,24000,Danger
+Q4_2024,690,1180,-560,-420,900,55,18,22500,Danger

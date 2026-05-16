@@ -1,0 +1,19 @@
+crewai>=1.14.0
+crewai-tools>=1.14.0
+langchain-google-genai>=4.2.0
+pandas>=2.3.0
+python-dotenv>=1.2.0
+
+# API Server
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+python-multipart>=0.0.12
+
+# Data Sources
+yfinance>=0.2.40
+
+# PDF Report Generation
+reportlab>=4.0
+
+# Web UI (optional — Streamlit fallback)
+streamlit>=1.56.0
