@@ -217,3 +217,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ProjectAegis — temp uploads
+data/uploads/
+temp_financial_data.csv
